@@ -44,6 +44,13 @@ Ended up with a clean, structured dataset ready for exploration.
 - Ran an `sns.regplot` to check the trend line
 - Broke out scatterplots for the top 3 states by mean price to compare regional patterns
 
+## Part 3: Correlation & Variable Analysis ✅
+
+- Built full correlation matrix for numeric features
+- Computed area-price correlation grouped by state and property type
+- Engineered `price_per_m2` feature
+- Explored relationship between property size and price efficiency
+- Filtered extreme outliers for cleaner visualization
 ---
 
 ## Tools Used
@@ -53,12 +60,6 @@ Python, pandas, matplotlib, seaborn, Jupyter Notebook
 ---
 
 ## What's Next
-## Part 3: Correlation & Variable Analysis ✅
 
-- Built full correlation matrix for numeric features
-- Computed area-price correlation grouped by state and property type
-- Engineered `price_per_m2` feature
-- Explored relationship between property size and price efficiency
-- Filtered extreme outliers for cleaner visualization
 - Part 4: Build a model to predict prices
 

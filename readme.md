@@ -10,10 +10,10 @@ Personal project working through a full data science pipeline on Mexico City rea
 - **Part 2: Visualization & Outlier Treatment** — done ✅
 - **Part 3: Correlation & Variable Analysis** — done ✅
 
-=======
-- - Part 4: Predictive Modeling — not started yet
 
----
+- Part 4: Predictive Modeling — not started yet
+
+
 
 ## The Data
 
@@ -53,7 +53,6 @@ Ended up with a clean, structured dataset ready for exploration.
 - Engineered `price_per_m2` feature
 - Explored relationship between property size and price efficiency
 - Filtered extreme outliers for cleaner visualization
-=======
 
 
 ## Tools Used

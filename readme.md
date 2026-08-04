@@ -8,8 +8,8 @@ Personal project working through a full data science pipeline on Mexico City rea
 
 - **Part 1: Data Cleaning & Preprocessing** — done ✅
 - **Part 2: Visualization & Outlier Treatment** — done ✅
-- Part 3: Correlation & Variable Analysis — not started yet
-- Part 4: Predictive Modeling — not started yet
+- **Part 3: Correlation & Variable Analysis** — done ✅
+- - Part 4: Predictive Modeling — not started yet
 
 ---
 
@@ -53,7 +53,12 @@ Python, pandas, matplotlib, seaborn, Jupyter Notebook
 ---
 
 ## What's Next
+## Part 3: Correlation & Variable Analysis ✅
 
-- Part 3: Dig into correlations, figure out which variables actually drive price
+- Built full correlation matrix for numeric features
+- Computed area-price correlation grouped by state and property type
+- Engineered `price_per_m2` feature
+- Explored relationship between property size and price efficiency
+- Filtered extreme outliers for cleaner visualization
 - Part 4: Build a model to predict prices
 

@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(git reset *)",
-      "Bash(python -c \"import json,sys; nb=json.load\\(sys.stdin\\); [print\\('---', i, '---'\\); [print\\(s, end=''\\) for s in nb['cells'][i]['source']] for i in [28,29]]\")",
-      "Bash(python -c ' *)"
-    ]
-  }
-}

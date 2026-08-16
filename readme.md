@@ -10,13 +10,13 @@ Personal project working through a full data science pipeline on Mexico City rea
 - **Part 2: Visualization & Outlier Treatment** — done ✅
 - **Part 3: Correlation & Variable Analysis** — done ✅
 ------------
--  Part 4: Predictive Modeling — not started yet
+-  Part 4: Predictive Modeling — not finished yet
 
 ---
 
 ## The Data
 
-Five CSV files from Properati covering the Mexico City metro area. Combined they had [X] raw listings across 16 features.
+Five CSV files from Properati covering the Mexico City metro area. Combined they had 23,140 raw listings across 16 features.
 
 ---
 
